@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "es6",
+    "types": [
+      "D:\\cocos3D\\CocosCreator3D_1.0.1\\resources\\resources\\3d\\engine\\bin\\.declarations\\cc"
+    ],
+    "experimentalDecorators": true
+  }
+}

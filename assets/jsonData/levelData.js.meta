@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.84",
+  "importer": "javascript",
+  "imported": true,
+  "uuid": "46e83412-a229-4e97-a196-bba8b1dae2ab",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/jsonData/levelData.js",
+    "importAsPlugin": false
+  }
+}

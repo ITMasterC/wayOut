@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.84",
+  "importer": "javascript",
+  "imported": true,
+  "uuid": "ec5581c4-6eb4-4135-bd2c-9128e82d7ce5",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/UINode.js",
+    "importAsPlugin": false
+  }
+}

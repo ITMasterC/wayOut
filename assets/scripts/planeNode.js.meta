@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.84",
+  "importer": "javascript",
+  "imported": true,
+  "uuid": "44cb7eb7-d33f-4e64-b383-ff6a79975a67",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/planeNode.js",
+    "importAsPlugin": false
+  }
+}

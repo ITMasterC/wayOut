@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.84",
+  "importer": "javascript",
+  "imported": true,
+  "uuid": "41eb68b5-dc48-48c8-91bc-6453b996cda4",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/scripts/conScripts/playerStates.js",
+    "importAsPlugin": false
+  }
+}
